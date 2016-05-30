@@ -1,0 +1,8 @@
+{
+  "displayName": "Simple VM",
+  "publisherDisplayName": "Contoso",
+  "summary": "Create a simple VM",
+  "longSummary": "Create a simple VM and use it",
+  "description": "<p>This is just a sample of the type of description you could create for your gallery item!</p><p>This is a second paragraph.</p>",
+  "documentationLink": "Documentation"
+}
